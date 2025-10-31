@@ -15,3 +15,6 @@ You move around the rooms
 
 17.
 Yes, you still have to prosses the command since it is is the game class
+
+18.
+You make less objects, but it makes it harder to extend it

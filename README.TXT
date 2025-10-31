@@ -9,3 +9,6 @@ Did the asked changes
 
 9.
 It returns a set the keys of the hashmap
+
+13.
+You move around the rooms
